@@ -1,7 +1,8 @@
+![logo](https://github.com/princekumarg12/princekumarg12/blob/master/web_development1.jpg)
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">Ruby on Rails Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/princekumarg12/princekumarg12/blob/master/developer.gif">
 
 - 🔭 I’m currently working on **Rails 7 Hotwire**
 
