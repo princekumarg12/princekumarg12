@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/princekumarg12/princekumarg12/blob/master/developer.gif">
 
-- 🔭 I’m currently working on **Rails 7 Hotwire**
+- 🔭 I’m currently working on **Rails 8 Hotwire**
 
 - 📚 My first react project <a href="https://princekumarg12.github.io/TextUtils" target="_blank">Text Utility</a>: A web app for efficient text manipulation.
 
